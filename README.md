@@ -7,6 +7,10 @@
 
 This is the Main Branch where everything starts out and ends back in.
 
+
+https://github.com/SteveN5QC/elements_of_data_science.git
+
+
         source Data_Science/bin/activate  # activate your virtual environment if needed
 
 
